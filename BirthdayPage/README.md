@@ -1,5 +1,7 @@
 # BirthdayPage
 
+## 为敬爱的zms同学庆祝22岁生日
+
 ### Demo展示
 ---
 [https://zjw1111.github.io/BirthdayPage/](https://zjw1111.github.io/BirthdayPage/)
@@ -7,6 +9,8 @@
 ## 相关fork说明
 ---
 网页主要模板来自：[https://github.com/ayusharma/birthday](https://github.com/ayusharma/birthday)
+
+模板来自:[https://github.com/zjw1111/BirthdayPage](https://github.com/zjw1111/BirthdayPage)
 
 图片放大脚本来自：[http://www.zhangxinxu.com/wordpress/?p=80](http://www.zhangxinxu.com/wordpress/?p=80)
 
